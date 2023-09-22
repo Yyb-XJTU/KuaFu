@@ -1,0 +1,61 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yyb/happy_phd/CasperAuto-main/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yyb/carla-ros-bridge/catkin_ws/devel/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/common/amathutils_lib/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/common/autoware_health_checker/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/prediction/constant_vel_predict/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/visualization/detected_objects_visualizer/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/perception/filtering/driveway_object_filter/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/localization/gnss/include/**",
+        "/home/yyb/kuafu/hybrid_a_star_ws/src/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/perception/tracking/lidar_imm_ukf_pda_track/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/hdmap/lanelet2_extension/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/lattice_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/hdmap/libvectormap/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/control/libwaypoint_follower/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/perception/detection/lidar_detector/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/perception/detection/lidar_euclidean_cluster_detect/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/perception/detection/lidar_shape_estimation/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/hdmap/map_file/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/prediction/naive_motion_predict/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/hdmap/object_map/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/hdmap/odr_map/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/odr_route_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_global_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_local_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_ros_helpers/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_simu/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_simulation_package/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_utilities/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/autoware_op_planner/op_utility/include/**",
+        "/home/yyb/kuafu/osm2rivz_ws/src/osm2rviz/include/**",
+        "/home/yyb/carla-ros-bridge/catkin_ws/src/ros-bridge/pcl_recorder/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/control/pure_pursuit/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/replay_path_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/common/ros_observer/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/route_reconstructor/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/speed_profile_planner/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/planning/traffic_light_processor/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/perception/tflight/trafficlight_recognizer/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/control/trajectory_controller/include/**",
+        "/home/yyb/happy_phd/CasperAuto-main/src/hdmap/vector_map/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

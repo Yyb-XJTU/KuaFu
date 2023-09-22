@@ -1,0 +1,39 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "bitset": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "utility": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/yyb/kuafu/V2X_ROS_V2/V2X_ws/devel/lib/python3/dist-packages",
+        "/home/yyb/happy_phd/CasperAuto-main/devel/lib/python3/dist-packages",
+        "/home/yyb/carla-ros-bridge/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/carla",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/util",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/carla/agents",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/carla/dist/carla-0.9.11-py3.7-linux-x86_64.egg"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/src",
+    "python.analysis.extraPaths": [
+        "/home/yyb/kuafu/yyb/V2X_ROS_V2/V2X_ws/devel/lib/python3/dist-packages",
+        "/home/yyb/happy_phd/CasperAuto-main/devel/lib/python3/dist-packages",
+        "/home/yyb/carla-ros-bridge/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/carla",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/util",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/carla/agents",
+        "/home/yyb/happy_phd/CARLA_0.9.11/PythonAPI/carla/dist/carla-0.9.11-py3.7-linux-x86_64.egg"
+    ]
+}

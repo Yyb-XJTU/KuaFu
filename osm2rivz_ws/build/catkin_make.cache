@@ -1,0 +1,2 @@
+osm2rviz
+-DCATKIN_DEVEL_PREFIX=/home/yyb/kuafu/yyb/osm2rivz_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yyb/kuafu/yyb/osm2rivz_ws/install -G Unix Makefiles

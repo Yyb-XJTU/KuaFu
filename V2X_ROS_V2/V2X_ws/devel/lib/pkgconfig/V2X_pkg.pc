@@ -1,0 +1,8 @@
+prefix=/home/yyb/kuafu/yyb/V2X_ROS_V2/V2X_ws/devel
+
+Name: V2X_pkg
+Description: Description of V2X_pkg
+Version: 0.0.0
+Cflags: -I/home/yyb/kuafu/yyb/V2X_ROS_V2/V2X_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

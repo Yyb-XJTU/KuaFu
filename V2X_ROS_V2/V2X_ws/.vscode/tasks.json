@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "catkin_make",
+			"args": [
+				"--directory",
+				"/home/yyb/kuafu/V2X_ROS_V2/V2X_ws",
+				"-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+			],
+			"problemMatcher": [
+				"$catkin-gcc"
+			],
+			"group": "build",
+			"label": "catkin_make: build"
+		}
+	]
+}
